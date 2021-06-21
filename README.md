@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Smeyk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+1. OOP based widget. Here we get an array of data and display it in the form of a table. (The table is created in JS file)
+https://smeyk.github.io/GridView/
 
-<!---
-Smeyk/Smeyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+2. We get the weather using api based on javascript:
+https://smeyk.github.io/weatherVidget/
+
+3. Several sites with adaptive cross-browser layout: 
+
+https://smeyk.github.io/concept/
+
+https://smeyk.github.io/puma/
+
+https://smeyk.github.io/tatu_salon/
