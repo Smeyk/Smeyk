@@ -2,6 +2,7 @@
 https://smeyk.github.io/GridView/
 
 2. We get the weather using api based on javascript:
+
 https://smeyk.github.io/weatherVidget/
 
 3. Several sites with adaptive cross-browser layout: 
