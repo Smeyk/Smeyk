@@ -2,15 +2,19 @@
 
 https://smeyk.github.io/react-redux-basket/
 
-1. OOP based widget. Here we get an array of data and display it in the form of a table. (The table is created in JS file)
+2. Form of adding on react.
+
+https://smeyk.github.io/react-add-form/
+
+3. OOP based widget. Here we get an array of data and display it in the form of a table. (The table is created in JS file)
 
 https://smeyk.github.io/GridView/
 
-2. We get the weather using api based on javascript:
+4. We get the weather using api based on javascript:
 
 https://smeyk.github.io/weatherVidget/
 
-3. Several sites with adaptive cross-browser layout: 
+5. Several sites with adaptive cross-browser layout: 
 
 https://smeyk.github.io/concept/
 
