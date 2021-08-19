@@ -2,23 +2,27 @@
 
 http://u111234.test-handyhost.ru/
 
-2. Store basket, made on react and redux.
+2. React application which have many function, more information inside.
+
+https://smeyk.github.io/react-app/
+
+3. Store basket, made on react and redux.
 
 https://smeyk.github.io/react-redux-basket/
 
-3. Form of adding on react.
+4. Form of adding on react.
 
 https://smeyk.github.io/react-add-form/
 
-4. OOP based widget. Here we get an array of data and display it in the form of a table. (The table is created in JS file)
+5. OOP based widget. Here we get an array of data and display it in the form of a table. (The table is created in JS file)
 
 https://smeyk.github.io/GridView/
 
-5. We get the weather using api based on javascript:
+6. We get the weather using api based on javascript:
 
 https://smeyk.github.io/weatherVidget/
 
-6. Several sites with adaptive cross-browser layout: 
+7. Several sites with adaptive cross-browser layout: 
 
 https://smeyk.github.io/concept/
 
