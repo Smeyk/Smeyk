@@ -1,4 +1,4 @@
-1. Internet store. Entire details are working, except the final payment. 
+1. Simple internet store. Entire details are working, except the final payment. 
 
 https://apple-orchard.netlify.app/
 
