@@ -1,4 +1,4 @@
-1. Simple internet store on React. Entire details are working, except the final payment. 
+1. Internet store on React. Entire details are working, except the final payment. 
 
 https://apple-orchard.netlify.app/
 
