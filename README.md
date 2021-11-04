@@ -4,7 +4,7 @@ https://apple-orchard.netlify.app/
 
 2. Fully working React SPA. You enter a note and get URL on that note, now, you may send this link... More information is inside the link!
 
-http://u111234.test-handyhost.ru/
+https://notes-by.netlify.app/
 
 3. React application which have many function, more information inside.
 
