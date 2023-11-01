@@ -1,4 +1,4 @@
-1. Internet store on React. Entire details are working, except the final payment. 
+1. Internet store on React. The entire details are working, except for the final payment. 
 
 https://apple-orchard.netlify.app/
 
@@ -6,7 +6,7 @@ https://apple-orchard.netlify.app/
 
 https://notes-by.netlify.app/
 
-3. React application which have many function, more information inside.
+3. React applications which have many functions, and more information inside.
 
 https://smeyk.github.io/react-app/
 
@@ -18,11 +18,11 @@ https://smeyk.github.io/react-redux-basket/
 
 https://smeyk.github.io/react-add-form/
 
-6. OOP based widget. Here we get an array of data and display it in the form of a table. (The table is created in JS file)
+6. OOP based widget. Here we get an array of data and display it as a table. (The table is created in JS file)
 
 https://smeyk.github.io/GridView/
 
-7. We get the weather using api based on javascript:
+7. We get the weather using API based on javascript:
 
 https://smeyk.github.io/weatherVidget/
 
