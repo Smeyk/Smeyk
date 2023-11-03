@@ -1,4 +1,4 @@
- # I'm a junior Front-end developer
+ <div align="center">I'm a junior Front-end developer</div>
 <br>
 <br>
 <br>
