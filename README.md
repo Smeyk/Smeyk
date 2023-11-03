@@ -1,5 +1,4 @@
-<h1 style="color : black" align="center">I'm a junior Front-end developer</h1>
-$${\color{black}Welcome I'm a junior Front-end developer}$$
+<h1 style="color: #FF69B4;" align="center">I'm a junior Front-end developer</h1>
 <br>
 <br>
 <br>
