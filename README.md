@@ -67,6 +67,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 <br>
 <h2 align="center">You can click on the images to see my works.</h2>
+<h3>To open the sites in new tabs just use CTRL+click (on Windows and Linux) or CMD+click (on MacOS)</h3>
 <br>
 <a  href="https://smeyk.github.io/oleksii-js-hw-12/" target="_blank" rel="noreferrer"> 
     <img src="https://lh3.googleusercontent.com/drive-viewer/AK7aPaAn1fZcNqvaoxa5bMQAqJxvJrpHzrLq6DgLINnu4m781tr5KGOOTFcAuQopQ9THv_-JQkaAmqZOaqR-dyrbevagzgF3=s1600" alt="pokemons" width="400" height="200"/> </a>
