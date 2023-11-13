@@ -1,6 +1,6 @@
  <h1 align="center">I'm a junior Front-end developer</h1>
 <br>
-<br>
+<h2 align="center">Technologies that I use:</h2>
 <br>
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
