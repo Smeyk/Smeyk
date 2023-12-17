@@ -69,14 +69,13 @@
     
 <div align="center">
  <h3>Technologies used in the site below: HTML5, CSS3, JavaScript, Axios</h3>
+ <p>*** This website is still under development and will become more functional in the near future.</p>
+<a href="https://smeyk.github.io/oleksii-js-hw-13/" target="_blank" rel="noreferrer">Tasty Treats website</a>
+ <h3>Technologies used in the site below: HTML5, CSS3, JavaScript, Axios</h3>
   <a href="https://smeyk.github.io/oleksii-js-hw-12/" target="_blank" rel="noreferrer">Pockemons website</a>
  <br>
  <h3>Technologies used in the site below: HTML5, CSS3, JavaScript, Axios</h3>
 <a href="https://smeyk.github.io/oleksii-js-hw-11/" target="_blank" rel="noreferrer">Photos website</a>
- <br>
- <h3>Technologies used in the site below: HTML5, CSS3, JavaScript, Axios</h3>
- <p>*** This website is still under development and will become more functional in the near future.</p>
-<a href="https://smeyk.github.io/oleksii-js-hw-13/" target="_blank" rel="noreferrer">Tasty Treats website</a>
  <br>
  <h3>Technologies used in the site below: HTML5, CSS3, React.js, Axios</h3>
 <a href="https://apple-orchard.netlify.app/" target="_blank" rel="noreferrer">Apple orchard</a>
