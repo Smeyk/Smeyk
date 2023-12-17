@@ -86,34 +86,11 @@
  <br>
  <h3>Technoligies used: HTML5, CSS3, React.js, Redux, Axios</h3>
 <a href="https://smeyk.github.io/react-redux-basket/" target="_blank" rel="noreferrer">Store Bascet</a>
+ <br>
+ <h3>Technoligies used: HTML5, CSS3</h3>
+<a href="https://smeyk.github.io/concept/" target="_blank" rel="noreferrer">Concept For Data</a>
+ <a href="https://smeyk.github.io/puma/" target="_blank" rel="noreferrer">SHELFLIFE STORE</a>
+ <a href="https://smeyk.github.io/tatu_salon/" target="_blank" rel="noreferrer">Ink Tattoo</a>
 </div>
  
 
-  
-
-
-
-
-4. Store basket, made on react and redux.
-
-https://smeyk.github.io/react-redux-basket/
-
-5. Form of adding on react.
-
-https://smeyk.github.io/react-add-form/
-
-6. OOP based widget. Here we get an array of data and display it as a table. (The table is created in JS file)
-
-https://smeyk.github.io/GridView/
-
-7. We get the weather using API based on javascript:
-
-https://smeyk.github.io/weatherVidget/
-
-8. Several sites with adaptive cross-browser layout: 
-
-https://smeyk.github.io/concept/
-
-https://smeyk.github.io/puma/
-
-https://smeyk.github.io/tatu_salon/
