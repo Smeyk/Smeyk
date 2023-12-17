@@ -68,6 +68,8 @@
 
     
 <div align="center">
+ <br>
+ <br>
  <h3>Technologies used in the site below: HTML5, CSS3, JavaScript, Axios</h3>
  <p>*** This website is still under development and will become more functional in the near future.</p>
 <a href="https://smeyk.github.io/oleksii-js-hw-13/" target="_blank" rel="noreferrer">Tasty Treats website</a>
