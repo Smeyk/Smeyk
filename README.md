@@ -77,22 +77,22 @@
  <h3>Technoligies used: HTML5, CSS3, JavaScript, Axios</h3>
  <p>*** This website is still under development and will become more functional in the near future.</p>
 <a href="https://smeyk.github.io/oleksii-js-hw-13/" target="_blank" rel="noreferrer">Tasty Treats website</a>
+ <br>
+ <h3>Technoligies used: HTML5, CSS3, React.js, Axios</h3>
+<a href="https://apple-orchard.netlify.app/" target="_blank" rel="noreferrer">Apple orchard</a>
+  <br>
+ <h3>Technoligies used: HTML5, CSS3, React.js, Axios</h3>
+<a href="https://smeyk.github.io/posts" target="_blank" rel="noreferrer">React Posts App</a>
+ <br>
+ <h3>Technoligies used: HTML5, CSS3, React.js, Redux, Axios</h3>
+<a href="https://smeyk.github.io/react-redux-basket/" target="_blank" rel="noreferrer">Store Bascet</a>
 </div>
  
 
   
 
-1. Internet store on React. The entire details are working, except for the final payment. 
 
-https://apple-orchard.netlify.app/
 
-2. Fully working React SPA. You enter a note and get URL on that note, now, you may send this link... More information is inside the link!
-
-https://notes-by.netlify.app/
-
-3. React applications which have many functions, and more information inside.
-
-https://smeyk.github.io/react-app/
 
 4. Store basket, made on react and redux.
 
