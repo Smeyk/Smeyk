@@ -66,13 +66,13 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-    <br>
+    
 <div align="center">
  <h3>Technoligies used: HTML5, CSS3, JavaScript, Axios</h3>
-  <a href="https://smeyk.github.io/oleksii-js-hw-12/" target="_blank" rel="noreferrer"><h1>Pockemons website</h1></a>
+  <a href="https://smeyk.github.io/oleksii-js-hw-12/" target="_blank" rel="noreferrer">Pockemons website</a>
  <br>
  <h3>Technoligies used: HTML5, CSS3, JavaScript, Axios</h3>
-<a href="https://smeyk.github.io/oleksii-js-hw-11/" target="_blank" rel="noreferrer"><h1>Photos website</h1></a>
+<a href="https://smeyk.github.io/oleksii-js-hw-11/" target="_blank" rel="noreferrer">Photos website</a>
 </div>
  
 
