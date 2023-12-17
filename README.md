@@ -89,7 +89,9 @@
  <br>
  <h3>Technoligies used: HTML5, CSS3</h3>
 <a href="https://smeyk.github.io/concept/" target="_blank" rel="noreferrer">Concept For Data</a>
+ <br>
  <a href="https://smeyk.github.io/puma/" target="_blank" rel="noreferrer">SHELFLIFE STORE</a>
+ <br>
  <a href="https://smeyk.github.io/tatu_salon/" target="_blank" rel="noreferrer">Ink Tattoo</a>
 </div>
  
