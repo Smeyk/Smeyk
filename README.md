@@ -70,13 +70,13 @@
 <h3>To open the sites in new tabs just use CTRL+click (on Windows and Linux) or CMD+click (on MacOS)</h3>
 <br>
 <a  href="https://smeyk.github.io/oleksii-js-hw-12/" target="_blank" rel="noreferrer"> 
-    <img src="https://lh3.googleusercontent.com/drive-viewer/AK7aPaAn1fZcNqvaoxa5bMQAqJxvJrpHzrLq6DgLINnu4m781tr5KGOOTFcAuQopQ9THv_-JQkaAmqZOaqR-dyrbevagzgF3=s1600" alt="pokemons" width="400" height="200"/> </a>
+    <h2>Pockemons website</h2> </a>
  &nbsp;
  &nbsp;
  &nbsp;
  &nbsp;
  <a  href="https://smeyk.github.io/oleksii-js-hw-11/" target="_blank" rel="noreferrer"> 
-    <img src="https://lh3.googleusercontent.com/drive-viewer/AK7aPaA9kmLI-GP5ZDXfTQIVHvcSNpfHiaK5nSGUtwLCfc96PG1qF5nAFjm_3iFItBb7AfmCiyatbY2jksZxK2Yka8Q9AcpCTQ=s1600" alt="searchphoto" width="400" height="200"/> </a>   
+    <h2>Photos website</h2> </a>   
 
 1. Internet store on React. The entire details are working, except for the final payment. 
 
