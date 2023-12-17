@@ -65,18 +65,11 @@
     &nbsp;
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-<br>
-<h2 align="center">You can click on the images to see my works.</h2>
-<h3>To open the sites in new tabs just use CTRL+click (on Windows and Linux) or CMD+click (on MacOS)</h3>
-<br>
-<a  href="https://smeyk.github.io/oleksii-js-hw-12/" target="_blank" rel="noreferrer"> 
-    <h2>Pockemons website</h2> </a>
- &nbsp;
- &nbsp;
- &nbsp;
- &nbsp;
- <a  href="https://smeyk.github.io/oleksii-js-hw-11/" target="_blank" rel="noreferrer"> 
-    <h2>Photos website</h2> </a>   
+
+ href="https://smeyk.github.io/oleksii-js-hw-12/" 
+
+ href="https://smeyk.github.io/oleksii-js-hw-11/" 
+  
 
 1. Internet store on React. The entire details are working, except for the final payment. 
 
