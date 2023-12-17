@@ -68,29 +68,31 @@
 
     
 <div align="center">
- <h3>Technoligies used: HTML5, CSS3, JavaScript, Axios</h3>
+ <h3>Technologies used in the site below: HTML5, CSS3, JavaScript, Axios</h3>
   <a href="https://smeyk.github.io/oleksii-js-hw-12/" target="_blank" rel="noreferrer">Pockemons website</a>
  <br>
- <h3>Technoligies used: HTML5, CSS3, JavaScript, Axios</h3>
+ <h3>Technologies used in the site below: HTML5, CSS3, JavaScript, Axios</h3>
 <a href="https://smeyk.github.io/oleksii-js-hw-11/" target="_blank" rel="noreferrer">Photos website</a>
  <br>
- <h3>Technoligies used: HTML5, CSS3, JavaScript, Axios</h3>
+ <h3>Technologies used in the site below: HTML5, CSS3, JavaScript, Axios</h3>
  <p>*** This website is still under development and will become more functional in the near future.</p>
 <a href="https://smeyk.github.io/oleksii-js-hw-13/" target="_blank" rel="noreferrer">Tasty Treats website</a>
  <br>
- <h3>Technoligies used: HTML5, CSS3, React.js, Axios</h3>
+ <h3>Technologies used in the site below: HTML5, CSS3, React.js, Axios</h3>
 <a href="https://apple-orchard.netlify.app/" target="_blank" rel="noreferrer">Apple orchard</a>
   <br>
- <h3>Technoligies used: HTML5, CSS3, React.js, Axios</h3>
+ <h3>Technologies used in the site below: HTML5, CSS3, React.js, Axios</h3>
 <a href="https://smeyk.github.io/posts" target="_blank" rel="noreferrer">React Posts App</a>
  <br>
- <h3>Technoligies used: HTML5, CSS3, React.js, Redux, Axios</h3>
+ <h3>Technologies used in the site below: HTML5, CSS3, React.js, Redux, Axios</h3>
 <a href="https://smeyk.github.io/react-redux-basket/" target="_blank" rel="noreferrer">Store Bascet</a>
  <br>
- <h3>Technoligies used: HTML5, CSS3</h3>
+ <h3>Technologies used in sites below: HTML5, CSS3</h3>
 <a href="https://smeyk.github.io/concept/" target="_blank" rel="noreferrer">Concept For Data</a>
  <br>
+ <br>
  <a href="https://smeyk.github.io/puma/" target="_blank" rel="noreferrer">SHELFLIFE STORE</a>
+ <br>
  <br>
  <a href="https://smeyk.github.io/tatu_salon/" target="_blank" rel="noreferrer">Ink Tattoo</a>
 </div>
